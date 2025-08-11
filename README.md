@@ -1,0 +1,2 @@
+# gas_slack_notify_times_channel
+召喚されると参加していないTimesチャンネルを返信するbot
